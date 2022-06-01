@@ -36,6 +36,7 @@
     margin-top: 11px;
     margin-right: 3px;
     color: #757575;
+    cursor: pointer;
 }
 .SearchField{
     height: 36px;
@@ -60,6 +61,7 @@ select {
 select{
     margin-left: 360px;
     margin-top: 24px;
+    cursor: pointer;
    
 }
 
@@ -70,6 +72,7 @@ select{
     border: none;
     color: #fff;
     border-radius: 4px;
+    cursor: pointer;
 }
 #btn{
     font-size: 28px;
@@ -77,6 +80,7 @@ select{
     margin-right: 175px;
     margin-top: 18px;
     float: right;
+    cursor: pointer;
 }
 
 .SecondDiv{
@@ -92,6 +96,9 @@ select{
     position: absolute;
     padding-left: 180px;
     color: rgb(232, 218, 218);
+}
+#SecondDivClickables{
+    cursor: pointer;
 }
 
 .end-InnerDiv{
@@ -123,6 +130,7 @@ select{
     border-radius: 10px;
     height:370px;
      width:220px;
+     cursor: pointer;
 }
 
 .TheBest{
@@ -140,6 +148,7 @@ select{
     border-radius: 10px;
     height:200px;
      width:210px;
+     cursor: pointer;
 }
 .SearchesWhiteBox{
     margin-left: 130px;
@@ -150,6 +159,7 @@ select{
     background-color: #fff;
     border-radius: 3px;
     padding: 15px;
+    cursor: pointer;
 }
 .SubSearchTexts{
     color: black;
@@ -181,6 +191,7 @@ select{
     color: #fff;
     position: relative;
     border-radius: 4px;
+    cursor: pointer;
 }
 .MovieshowingHeading{
     padding-top: 30px;
@@ -191,6 +202,7 @@ select{
     padding-top: 30px;
     color: rgb(134, 144, 144);
     font-size: 11px;
+    cursor: pointer;
 }
 .MovieShowingSecondLine{
     padding-top: 8px;
@@ -201,6 +213,7 @@ select{
     height: 60px;
     width: 140px;
     float: left;
+    cursor: pointer;
    
 }
 
