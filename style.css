@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.FirstDiv{
+    height: 70px;
+    width: 1519px;
+    background-color: #303143;
+}
+
+.Logo{
+    height: 60px;
+    width: 140px;
+    margin-left: 180px;
+    padding-top: 5px;
+    float: left;
+   
+}
+.IconPlacing{
+    width: 400px;
+    height: 40px;
+    background-color: #fff;
+    display: flex;
+    margin-top: 16px;
+    margin-left: 18px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 15px;
+    float: left;
+}
+.IconPlacing > i {
+    font-size: 14px;
+    margin-top: 11px;
+    margin-right: 3px;
+    color: #757575;
+}
+.SearchField{
+    height: 36px;
+    position: absolute;
+    border: none;
+    width: 360px;
+    float: left;
+    outline: none;
+    margin-left: 21px;
+}
+
+
+select {
+    border: none !important;
+  }
+  
+  *:focus {
+  outline: #757575;
+  }
+  
+  
+select{
+    margin-left: 360px;
+    margin-top: 24px;
+   
+}
+
+.SignIn{
+    margin-left: 30px;
+    padding: 10px;
+    background-color: #F84464;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+}
+#btn{
+    font-size: 28px;
+    color: #fff;
+    margin-right: 175px;
+    margin-top: 18px;
+    float: right;
+}
+
+.SecondDiv{
+    width: 100%;
+    height: 38px;
+    background-color: #222539;
+    padding-top: 13px;
+   position: relative;
+    text-align: left;
+    
+}
+.inner-SecondDiv{
+    position: absolute;
+    padding-left: 180px;
+    color: rgb(232, 218, 218);
+}
+
+.end-InnerDiv{
+    position: relative;
+    left: 900px;
+    bottom: 10px;
+    color: #fff;
+    font-size: 14px;
+}
+.Banner{
+    margin-top: 10px;
+}
+.CoinDcx{
+    margin-top: 70px;
+    margin-left: 150px;
+    font-size: 14px;
+}
+.RecommendedMovies{
+    margin-top: 120px;
+    margin-left: 150px;
+    font-size: 32px;
+    font-weight: bold;
+}
+.MoviePoster{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+#MoviePosterStyle{
+    border-radius: 10px;
+    height:370px;
+     width:220px;
+}
+
+.TheBest{
+    margin-top: 70px;
+    margin-left: 150px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.EntertainmentPoster{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+#EntertainmentPosterStyle{
+    border-radius: 10px;
+    height:200px;
+     width:210px;
+}
+.SearchesWhiteBox{
+    margin-left: 130px;
+}
+.SearchTexts{
+    background-color: #757575;
+    color: #F84464;
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 15px;
+}
+.SubSearchTexts{
+    color: black;
+}
+.LastClass{
+    height: 450px;
+    width: 1369px;
+    background-color: #333338;
+    padding-top: 30px;
+    padding-left: 150px;
+    float: left;
+}
+.WtextInBdiv{
+    margin-left: 20px;
+    color: #fff;
+    float: left;
+    font-size: large;
+}
+.ContactUs{
+    margin-left: 30px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    bottom: 8px;
+    left: 260px;
+    background-color: #F84464;
+    border: none;
+    color: #fff;
+    position: relative;
+    border-radius: 4px;
+}
+.MovieshowingHeading{
+    padding-top: 30px;
+    color: rgb(198, 205, 205);
+    font-size: 11px;
+}
+.MovieShowing{
+    padding-top: 30px;
+    color: rgb(134, 144, 144);
+    font-size: 11px;
+}
+.MovieShowingSecondLine{
+    padding-top: 8px;
+    color: rgb(134, 144, 144);
+    font-size: 11px;
+}
+.LogoRepeat{
+    height: 60px;
+    width: 140px;
+    float: left;
+   
+}
+
+.Divider{
+    margin-top: 20px;
+}
