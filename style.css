@@ -13,7 +13,7 @@
     height: 60px;
     width: 140px;
     margin-left: 180px;
-    padding-top: 5px;
+    margin-top: 5px;
     float: left;
     cursor: pointer;
    
@@ -31,7 +31,7 @@
     padding-left: 15px;
     float: left;
 }
-.IconPlacing > i {
+ i{
     font-size: 14px;
     margin-top: 11px;
     margin-right: 3px;
@@ -49,23 +49,14 @@
 }
 
 
-select {
+.DropDown {
     border: none !important;
-  }
-  
-  *:focus {
-  outline: #757575;
-  }
-  
-  
-select{
     margin-left: 360px;
     margin-top: 24px;
     cursor: pointer;
-   
-}
+  }
 
-.SignIn{
+.SignInButton{
     margin-left: 30px;
     padding: 10px;
     background-color: #F84464;
@@ -74,7 +65,7 @@ select{
     border-radius: 4px;
     cursor: pointer;
 }
-#btn{
+#Menubtn{
     font-size: 28px;
     color: #fff;
     margin-right: 175px;
@@ -97,8 +88,9 @@ select{
     padding-left: 180px;
     color: rgb(232, 218, 218);
 }
-#SecondDivClickables{
+#SecondDivClickables:hover{
     cursor: pointer;
+    color: #fff;
 }
 
 .end-InnerDiv{
